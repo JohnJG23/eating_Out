@@ -43,6 +43,6 @@ barchartGC(~race + eatout,data=mydata, type="percent")
 
 ```
 
-
+The bar chart appears to be saying that white, black, and other people are eating out. The white statistics are higher than the black and other statistics and the statistics for black people eating out is the least while other can be said that it is in between the white people and black people eating out.  
 
 
