@@ -55,4 +55,7 @@ colPerc(table1)
 Here there is a pattern that is highest to lowest but then on the top portion of the tables other is at the bottom yet they have a higher number for yes than the black averages. Still there is higher average for number of white folks eating out.    
 
 
+```{r}
+fisherXY(mydata$race, mydata$eatout, printAll = TRUE)
+```
 
